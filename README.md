@@ -24,7 +24,7 @@ https://arceliomin.github.io/arc-finance/
 
 ### Homepage
 
-![Homepage](Screenshot%202026-07-18%20000637.png)
+![Homepage](Screenshot%202026-07-19%20000153.png)
 
 ### Product Catalog
 
