@@ -1,5 +1,7 @@
 # Toyota Sales Landing Page
 
+![Homepage](Screenshot%202026-07-19%20000153.png)
+
 Modern responsive landing page designed for Toyota sales consultants.
 
 ## Features
